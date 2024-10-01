@@ -1,6 +1,6 @@
 # WebScraping
 An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
-There are four types of IP addresses:
+There are four types of IP addresses:  
 Public.  
 Private.  
 Static.  
