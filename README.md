@@ -1,4 +1,4 @@
-# WebScraping
+# IP Address
 An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
 There are four types of IP addresses:  
 Public.  
@@ -23,3 +23,12 @@ In IPv4, a unique sequence of bits is assigned to a computer, so a total of (2^3
 IPv4 can be written as:
 189.123.123.90
 Classes of IPv4 Address: There are around 4.3 billion IPv4 addresses and managing all those addresses without any scheme is next to impossible
+
+## Subnet
+A subnet, or subnetwork, is a network inside a network. 
+Subnets make networks more efficient. 
+Through subnetting, network traffic can travel a shorter distance without passing through unnecessary routers to reach its destination.
+
+Other References: https://youtu.be/5WfiTHiU4x8?si=cLczhBlK8YR6noRP
+
+# WebScraping
