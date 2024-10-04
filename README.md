@@ -32,3 +32,5 @@ Through subnetting, network traffic can travel a shorter distance without passin
 Other References: https://youtu.be/5WfiTHiU4x8?si=cLczhBlK8YR6noRP
 
 # WebScraping
+Web scraping is an automatic method to obtain large amounts of data from websites. 
+Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. 
