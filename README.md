@@ -1,10 +1,10 @@
 # IP Address
 An Internet Protocol (IP) address is the unique identifying number assigned to every device connected to the internet.
 There are four types of IP addresses:  
-Public.  
-Private.  
-Static.  
-Dynamic.  
+**Public.**  
+**Private.**  
+**Static.**  
+**Dynamic.**  
 It is generally expressed in a set of numbers for example 192.155.12.1. 
 Here each number in the set is from 0 to 255 range. 
 Or we can say that a full IP address ranges from 0.0.0.0 to 255.255.255.255. 
@@ -34,3 +34,5 @@ Other References: https://youtu.be/5WfiTHiU4x8?si=cLczhBlK8YR6noRP
 # WebScraping
 Web scraping is an automatic method to obtain large amounts of data from websites. 
 Most of this data is unstructured data in an HTML format which is then converted into structured data in a spreadsheet or a database so that it can be used in various applications. 
+Beautiful Soup is a Python package for parsing HTML and XML documents, including those with malformed markup. 
+It creates a parse tree for documents that can be used to extract data from HTML, which is useful for web scraping.
