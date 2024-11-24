@@ -4,7 +4,8 @@ There are four types of IP addresses:
 **Public.**  
 **Private.**  
 **Static.**  
-**Dynamic.**  
+**Dynamic.** 
+While the public and private types indicate the location of the computer or computer network—private being used inside a network, public being used outside of a network—static and dynamic indicate permanency.  
 It is generally expressed in a set of numbers for example 192.155.12.1. 
 Here each number in the set is from 0 to 255 range. 
 Or we can say that a full IP address ranges from 0.0.0.0 to 255.255.255.255. 
